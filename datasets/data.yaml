@@ -1,0 +1,7 @@
+names:
+- penguin
+- turtle
+nc: 2
+path: /content/drive/MyDrive/CDD/Sem02/FDAII/Proyecto-localizacion-identificacion-objetos/datasets/
+train: /content/drive/MyDrive/CDD/Sem02/FDAII/Proyecto-localizacion-identificacion-objetos/datasets/images/train
+val: /content/drive/MyDrive/CDD/Sem02/FDAII/Proyecto-localizacion-identificacion-objetos/datasets/images/val
